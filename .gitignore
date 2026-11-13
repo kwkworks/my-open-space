@@ -1,0 +1,10 @@
+# 공개하지 않는 것: 원본 영상, 추출 사진, 점 파일, 큰 중간 파일
+video/
+recon/
+ktest/
+formats/
+room-3d-demo/
+.claude/
+*.mp4
+*.ply
+*.npz
